@@ -34,12 +34,12 @@ The array will be updated and look like this.
 
 To test if there's a chance that `three` could exist, compute the hash of `three`, which is equal to `3`.
 
-Check if index `3` is equal to `1`, which in this case is `false`.
+Check if the index `3` is equal to `1`, which in this case is `false`.
 
 
 To test if there's a chance that `one` could exist, compute the hash of `one`, which is equal to `7`.
 
-Check if index `7` is equal to `1`, which in this case is `true`.
+Check if the index `7` is equal to `1`, which in this case is `true`.
 
 ## Implementation
 
